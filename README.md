@@ -1,6 +1,3 @@
-
-[![Meshery](https://img.shields.io/badge/Meshery-{service_mesh}-{color}?style=for-the-badge&logo=meshery&logoColor=white)](https://meshery.io)
-
 <h1 align="center">Hi 👋, I'm Atharv Gaur</h1>
 <h3 align="center">A passionate student of robotics and tech from India</h3>
 
