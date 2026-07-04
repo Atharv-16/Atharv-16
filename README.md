@@ -5,7 +5,7 @@
 <p><strong>AI Scientist · Robotics · Computer Vision</strong></p>
 <p>Navi · IIT (BHU)</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38EF7D&center=true&vCenter=true&width=600&lines=Building+robots+that+see+and+think;Computer+Vision+%26+Embedded+Systems;Agentic+AI+%26+ML+Engineering;Open+to+collaborations+%26+internships" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38EF7D&center=true&vCenter=true&width=600&lines=Building+robots+that+see+and+think;Computer+Vision+%26+Embedded+Systems;Agentic+AI+%26+ML+Engineering;Open+to+full-time+roles+%26+collaborations" alt="Typing animation"/>
 
 </div>
 
@@ -23,7 +23,7 @@
 | **Focus** | Robotics, Computer Vision, Applied AI |
 | **Currently** | AI Scientist at Navi |
 | **Education** | IIT (BHU) Varanasi · Electrical Engineering |
-| **Open to** | Collaborations, internships, interesting problems |
+| **Open to** | Full-time roles, collaborations, interesting problems |
 
 Developer at the intersection of **embedded systems**, **machine learning**, and **real-world software** — from pose estimation and drone navigation to agentic AI and data-driven dashboards.
 
