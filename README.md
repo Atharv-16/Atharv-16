@@ -1,8 +1,11 @@
 <div align="center">
 
+<img src="https://avatars.githubusercontent.com/u/119600601?s=200&v=4" width="120" style="border-radius: 50%;" alt="Atharv Gaur"/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=72&section=header&text=Atharv%20Gaur&fontSize=40&fontColor=38ef7d&alignment=center"/>
 
-<p><strong>Robotics &amp; AI · Computer Vision · Intelligent Systems</strong></p>
+<p><strong>AI Scientist · Robotics · Computer Vision</strong></p>
+<p><a href="https://atharv-16.github.io/atharv-portfolio">Portfolio</a> · Navi · IIT (BHU)</p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38EF7D&center=true&vCenter=true&width=600&lines=Building+robots+that+see+and+think;Computer+Vision+%26+Embedded+Systems;Agentic+AI+%26+ML+Engineering;Open+to+collaborations+%26+internships" alt="Typing animation"/>
 
@@ -20,8 +23,8 @@
 | :--- | :--- |
 | **Location** | India |
 | **Focus** | Robotics, Computer Vision, Applied AI |
-| **Currently** | Building intelligent systems from sensors to models |
-| **Interests** | ArUco tracking, RAG pipelines, autonomous navigation |
+| **Currently** | AI Scientist at Navi |
+| **Education** | IIT (BHU) Varanasi · Electrical Engineering |
 | **Open to** | Collaborations, internships, interesting problems |
 
 Developer at the intersection of **embedded systems**, **machine learning**, and **real-world software** — from pose estimation and drone navigation to agentic AI and data-driven dashboards.
@@ -99,6 +102,9 @@ Developer at the intersection of **embedded systems**, **machine learning**, and
 
 <div align="center">
 
+<a href="https://atharv-16.github.io/atharv-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-38ef7d?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/atharvgaur16">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
