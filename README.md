@@ -1,13 +1,20 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Atharv%20Gaur&fontSize=48&fontColor=38ef7d&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20AI%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Systems&descSize=16&descAlignY=58&descAlign=50"/>
+<div align="center">
 
-<!-- Typing animation (no link wrapper — avoids broken icon) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38EF7D&center=true&vCenter=true&width=600&lines=Building+robots+that+see+and+think;Computer+Vision+%26+Embedded+Systems;Agentic+AI+%26+ML+Engineering;Open+to+collaborations+%26+internships" alt="Typing animation"/>
-</p>
+# Atharv Gaur
 
-<!-- About Me -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=44&section=header&text=About%20Me&fontSize=18&fontColor=38ef7d&alignment=center"/>
+### Robotics & AI · Computer Vision · Intelligent Systems
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2c5364&center=true&vCenter=true&width=600&lines=Building+robots+that+see+and+think;Computer+Vision+%26+Embedded+Systems;Agentic+AI+%26+ML+Engineering;Open+to+collaborations+%26+internships" alt="Typing animation"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### About Me
+
+</div>
 
 | | |
 | :--- | :--- |
@@ -19,8 +26,13 @@
 
 Developer at the intersection of **embedded systems**, **machine learning**, and **real-world software** — from pose estimation and drone navigation to agentic AI and data-driven dashboards.
 
-<!-- Featured Projects -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=44&section=header&text=Featured%20Projects&fontSize=18&fontColor=38ef7d&alignment=center"/>
+---
+
+<div align="center">
+
+### Featured Projects
+
+</div>
 
 | Project | Description |
 | :--- | :--- |
@@ -31,44 +43,64 @@ Developer at the intersection of **embedded systems**, **machine learning**, and
 | [Health Dashboard](https://github.com/Atharv-16/Health_Dashboard) | TypeScript health tracking and visualization app |
 | [Image Captioning (CNN-LSTM)](https://github.com/Atharv-16/image-captioning-using-cnn-lstm) | Deep learning pipeline for automatic image captioning |
 
-<!-- Tech Stack -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=44&section=header&text=Tech%20Stack&fontSize=18&fontColor=38ef7d&alignment=center"/>
+---
 
-<p align="center">
+<div align="center">
+
+### Tech Stack
+
+</div>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,linux,git,pytorch,tensorflow,docker,vscode,bash,nodejs&perline=6" alt="Tech stack"/>
-</p>
+</div>
 
-<!-- GitHub Stats -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=44&section=header&text=GitHub%20Stats&fontSize=18&fontColor=38ef7d&alignment=center"/>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atharv-16&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38ef7d&icon_color=38ef7d&text_color=c9d1d9&count_private=true" alt="GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-16&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38ef7d&text_color=c9d1d9&langs_count=8" alt="Top languages" height="170"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Atharv-16&theme=tokyonight&hide_border=true&background=0d1117&ring=38ef7d&fire=38ef7d&currStreakLabel=38ef7d" alt="GitHub streak"/>
-</p>
+### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-16&theme=tokyonight&hide_border=true&bg_color=0d1117&color=38ef7d&line=2c5364&point=38ef7d&area=true" alt="Contribution activity"/>
-</p>
+</div>
 
-<!-- Contribution Snake -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=44&section=header&text=Contribution%20Activity&fontSize=18&fontColor=38ef7d&alignment=center"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Atharv-16&theme=default&hide_border=true&background=FFFFFF&ring=2c5364&fire=2c5364&currStreakLabel=2c5364" alt="GitHub streak"/>
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-16&theme=minimal&hide_border=true&bg_color=FFFFFF&color=2c5364&line=38ef7d&point=2c5364&area=true" alt="Contribution activity"/>
+</div>
+
+---
+
+<div align="center">
+
+### Contribution Activity
+
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Atharv-16/Atharv-16/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
-</p>
+</div>
 
-<!-- Connect -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=44&section=header&text=Connect&fontSize=18&fontColor=38ef7d&alignment=center"/>
+---
 
-<p align="center">
+<div align="center">
+
+### Connect
+
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/atharvgaur16">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
+</div>
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer&fontSize=14&fontColor=38ef7d&animation=fadeIn&text=Thanks%20for%20visiting%20-%20star%20a%20repo%20if%20you%20like%20what%20you%20see"/>
+---
+
+<div align="center">
+
+<sub>Thanks for visiting — star a repo if you like what you see</sub>
+
+</div>
