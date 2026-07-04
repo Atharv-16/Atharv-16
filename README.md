@@ -100,6 +100,9 @@ Developer at the intersection of **embedded systems**, **machine learning**, and
 
 <div align="center">
 
+<a href="https://atharv-16.github.io/atharv-portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-38ef7d?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/atharv-gaur">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
