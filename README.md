@@ -1,10 +1,8 @@
 <div align="center">
 
-# Atharv Gaur
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Atharv%20Gaur&fontSize=46&fontColor=38ef7d&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20AI%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Systems&descSize=15&descAlignY=58&descAlign=50"/>
 
-### Robotics & AI · Computer Vision · Intelligent Systems
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2c5364&center=true&vCenter=true&width=600&lines=Building+robots+that+see+and+think;Computer+Vision+%26+Embedded+Systems;Agentic+AI+%26+ML+Engineering;Open+to+collaborations+%26+internships" alt="Typing animation"/>
+![Typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38EF7D&center=true&vCenter=true&width=600&lines=Building+robots+that+see+and+think;Computer+Vision+%26+Embedded+Systems;Agentic+AI+%26+ML+Engineering;Open+to+collaborations+%26+internships)
 
 </div>
 
@@ -52,7 +50,9 @@ Developer at the intersection of **embedded systems**, **machine learning**, and
 </div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,ts,linux,git,pytorch,tensorflow,docker,vscode,bash,nodejs&perline=6" alt="Tech stack"/>
+
+![Tech stack](https://skillicons.dev/icons?i=python,cpp,c,ts,linux,git,pytorch,tensorflow,docker,vscode,bash,nodejs&perline=6)
+
 </div>
 
 ---
@@ -64,11 +64,11 @@ Developer at the intersection of **embedded systems**, **machine learning**, and
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Atharv-16&theme=default&hide_border=true&background=FFFFFF&ring=2c5364&fire=2c5364&currStreakLabel=2c5364" alt="GitHub streak"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-16&theme=minimal&hide_border=true&bg_color=FFFFFF&color=2c5364&line=38ef7d&point=2c5364&area=true" alt="Contribution activity"/>
+![GitHub streak](https://streak-stats.demolab.com?user=Atharv-16&theme=tokyonight&hide_border=true&background=0d1117&ring=38ef7d&fire=38ef7d&currStreakLabel=38ef7d)
+
+![Contribution activity](https://github-readme-activity-graph.vercel.app/graph?username=Atharv-16&theme=tokyonight&hide_border=true&bg_color=0d1117&color=38ef7d&line=2c5364&point=38ef7d&area=true)
+
 </div>
 
 ---
@@ -80,7 +80,9 @@ Developer at the intersection of **embedded systems**, **machine learning**, and
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Atharv-16/Atharv-16/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
+
+![Contribution snake](https://raw.githubusercontent.com/Atharv-16/Atharv-16/output/github-contribution-grid-snake-dark.svg)
+
 </div>
 
 ---
@@ -92,15 +94,15 @@ Developer at the intersection of **embedded systems**, **machine learning**, and
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/atharvgaur16">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvgaur16)
+
 </div>
 
 ---
 
 <div align="center">
 
-<sub>Thanks for visiting — star a repo if you like what you see</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=90&section=footer&fontSize=13&fontColor=38ef7d&animation=fadeIn&text=Thanks%20for%20visiting%20-%20star%20a%20repo%20if%20you%20like%20what%20you%20see"/>
 
 </div>
