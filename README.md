@@ -39,6 +39,7 @@ Developer at the intersection of **embedded systems**, **machine learning**, and
 | :--- | :--- |
 | [AI Business Intelligence Agent](https://github.com/Atharv-16/AI-Business-Intelligence-Agent-Smart-Dashboards-for-Decision-Making) | Agent-driven dashboards for data analysis and decision support |
 | [Knowledge Agentic AI (RAG)](https://github.com/Atharv-16/Knowledge-Agentic-AI-with-RAG-Advanced-PDF-Query-Engine-) | Advanced PDF query engine with retrieval-augmented generation |
+| [Averera](https://github.com/Atharv-16/Averera) | Autonomous EV with road segmentation, ROS perception, and SLAM |
 | [ArUco Pose Estimation](https://github.com/Atharv-16/ArUco-Pose-Estimationn) | Real-time pose estimation using ArUco markers and OpenCV |
 | [Aeronav](https://github.com/Atharv-16/Aeronav) | Navigation and control systems for aerial robotics |
 | [Health Dashboard](https://github.com/Atharv-16/Health_Dashboard) | TypeScript health tracking and visualization app |
