@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/119600601?s=200&v=4" width="120" style="border-radius: 50%;" alt="Atharv Gaur"/>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=72&section=header&text=Atharv%20Gaur&fontSize=40&fontColor=38ef7d&alignment=center"/>
 
 <p><strong>AI Scientist · Robotics · Computer Vision</strong></p>
