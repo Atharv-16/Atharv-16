@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Atharv%20Gaur&fontSize=46&fontColor=38ef7d&animation=fadeIn&fontAlignY=38&desc=Robotics%20%26%20AI%20%7C%20Computer%20Vision%20%7C%20Intelligent%20Systems&descSize=15&descAlignY=58&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=72&section=header&text=Atharv%20Gaur&fontSize=40&fontColor=38ef7d&alignment=center"/>
+
+<p><strong>Robotics &amp; AI · Computer Vision · Intelligent Systems</strong></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38EF7D&center=true&vCenter=true&width=600&lines=Building+robots+that+see+and+think;Computer+Vision+%26+Embedded+Systems;Agentic+AI+%26+ML+Engineering;Open+to+collaborations+%26+internships" alt="Typing animation"/>
 
@@ -66,6 +68,8 @@ Developer at the intersection of **embedded systems**, **machine learning**, and
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv-16&theme=tokyonight&hide_border=true&background=0d1117&ring=38ef7d&fire=38ef7d&currStreakLabel=38ef7d" alt="GitHub streak"/>
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-16&theme=tokyonight&hide_border=true&bg_color=0d1117&color=38ef7d&line=2c5364&point=38ef7d&area=true" alt="Contribution activity"/>
 
